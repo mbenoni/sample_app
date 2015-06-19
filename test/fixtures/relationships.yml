@@ -1,0 +1,15 @@
+one:
+  follower: magnus
+  followed: lana
+
+two:
+  follower: magnus
+  followed: mallory
+
+three:
+  follower: lana
+  followed: magnus
+
+four:
+  follower: archer
+  followed: magnus
